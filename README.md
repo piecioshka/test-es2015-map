@@ -1,6 +1,6 @@
 # test-es2015-map
 
-> :ledger: Simple test about hashmap with unique keys.
+:ledger: Testing Map from ECMAScript 2015 spec
 
 ## History
 
@@ -10,5 +10,4 @@ That structure could only had unique keys with (only strings) with value (any da
 In ECMAScript 2015 we have a new structure for unique collections called `Map`.
 Instance of `Map` has cool API to `get`, `set`, `add`, `has` operations.
 
-In this project I would to show similaries in that two strcutures.
-
+In this project I would like to show similarities in those two structures.
