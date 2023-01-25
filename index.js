@@ -1,8 +1,8 @@
 'use strict';
 
 // Create instance of structure
-let literalObject = {};
-let mapConstructor = new Map();
+const literalObject = {};
+const mapConstructor = new Map();
 
 debugger; // stop to check states
 
@@ -19,14 +19,14 @@ mapConstructor.set('foo', 456);
 debugger; // stop to check states
 
 // Get value by key
-let g1 = literalObject.foo;
-let g2 = mapConstructor.get('foo');
+const g1 = literalObject.foo;
+const g2 = mapConstructor.get('foo');
 
 debugger; // stop to check states
 
 // Check that key is exists
-let s1 = Boolean(literalObject.foo);
-let s2 = mapConstructor.has('foo');
+const s1 = Boolean(literalObject.foo);
+const s2 = mapConstructor.has('foo');
 
 debugger; // stop to check states
 
