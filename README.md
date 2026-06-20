@@ -11,3 +11,7 @@ In ECMAScript 2015 we have a new structure for unique collections called `Map`.
 Instance of `Map` has cool API to `get`, `set`, `add`, `has` operations.
 
 In this project I would like to show similarities in those two structures.
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
