@@ -14,4 +14,4 @@ In this project I would like to show similarities in those two structures.
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2026
+[The MIT License](https://piecioshka.mit-license.org) @ 2026
